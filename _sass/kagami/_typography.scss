@@ -237,18 +237,6 @@ article {
   transition: opacity 0.5s ease-out;
 }
 
-.post-list-item  .post-item-cover {
-  width: 100vw;
-  position: absolute;
-  top: -16px;
-  bottom: -16px;
-  margin-left: 50%;
-  transform: translateX(-50%);
-  background-size: cover;
-  background-position: center;
-}
-
-
 .cover-meta {
   font-family: "Press Start 2P", cursive;
   font-variant-caps: all-petite-caps;
