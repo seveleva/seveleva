@@ -4,10 +4,10 @@ title: Главная страница
 lang: ru
 position: 100
 navlevel: header
+cover_url: https://seveleva.github.io/img/mai.jpg
 navtitle: главная
 ---
 
-![](img/asvetniki.jpg)
 Kagami is a peaceful theme for Jekyll and GitHub Pages.This is a text with a
 footnote[^1].
 
