@@ -5,15 +5,15 @@ lang: ru
 position: 100
 navlevel: header
 cover_url: http://seveleva.com/img/kn1.jpg
-navtitle: главная
+navtitle: Главная
 ---
 
-Kagami is a peaceful theme for Jekyll and GitHub Pages.This is a text with a
-footnote[^1].
+Вы находитесь на сайте **Се́велевой Людмилы Михайловны** — учитель начальных классов высшей категории гимназии №50 г.Минска.
 
-[^1]: And here is the definition.
-
-The theme was firstly designed for <https://banana.moe> in late 2016 and have it's first release in March 2017 with a whole bunch of big changes in both design and implementation.
-![](img/asvetniki.jpg)
+На этом сайте представлены:
+* педагогические материалы и статьи;
+* ссылки на регламентирующие организации и документы;
+* послужной список;
+* контактная информация.
 
 Visit [project home](https://github.com/kamikat/jekyll-theme-kagami) for source code and installation guides.
