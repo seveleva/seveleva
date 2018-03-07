@@ -4,7 +4,7 @@ title: Главная страница
 lang: ru
 position: 100
 navlevel: header
-cover_url: https://seveleva.github.io/img/kn1.jpg
+cover_url: http://seveleva.com/img/kn1.jpg
 navtitle: главная
 ---
 
