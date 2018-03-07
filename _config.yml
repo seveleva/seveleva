@@ -5,7 +5,7 @@ description: | # this means to ignore newlines until "baseurl:"
   Сайт Севелевой Людмилы Михайловны — педагога из Беларуси.
   Аффилиация: ордена Трудового Красного Знамени гимназия №50 г.Минска
   Педагогические материалы, статьи, контакты.
-baseurl: "seveleva.com"
+# baseurl: "seveleva.com"
 lang: en # site language (en/ja/zh-Hans/zh-Hant)
 color_scheme: github # this specifies color scheme for syntax highlighting
 github_username: kamikat
