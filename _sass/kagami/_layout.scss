@@ -35,6 +35,11 @@ article {
     display: block;
     margin: $vspacing auto;
   }
+  
+  p {
+    text-align: justify;
+    text-justify: inter-word;
+  }
 
   li > ul, li > ol {
     margin-top: 0;
