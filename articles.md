@@ -1,6 +1,9 @@
 ---
 layout: page
-title: Статьи
+title: Статьи и педагогические материалы
+lang: ru
+navlevel: header
+navtitle: Статьи
 description: Педагогические материалы и статьи Севелевой Л.М.
 ---
 
