@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Дидактический приём «Ритор»
-permalink: rhetor
+permalink: rhetor.html
 lang: ru
 position: 100
 cover_url: http://seveleva.com/img/Plato.jpg
