@@ -10,10 +10,10 @@ This note demonstrates some of what [Markdown][1] is capable of doing.
 
 *Note: Feel free to play with this page. Unlike regular notes, this doesn't automatically save itself.*
 
-## [Дидактический приём «Ритор»](rhetor)
+## Дидактический приём «Ритор»
 
-Описание дидактического приёма «Ритор». Результаты исследования были представлены на городском кон­курсе «Урок для педагога—2017» в феврале­-марте 2017 г. 
-Методическое обоснование опыта было издано в виде отдельной статьи в журнале «Нароная асвета» в декабре 2017 (скачать pdf [здесь](http://seveleva.com/assets/Seveleva_Rhetor.pdf)).
+Описание [дидактического приёма «*Ритор*»](rhetor) для обогащение активного словаря учащихся. Результаты исследования были представлены на городском кон­курсе «*Урок для педагога*—2017» в феврале­-марте 2017 г. 
+Методическое обоснование опыта было издано в виде отдельной статьи в журнале «*Народная асвета*» в декабре 2017 ([скачать в формате *pdf*](http://seveleva.com/assets/Seveleva_Rhetor.pdf)).
 
 Paragraphs can be written like so. A paragraph is the basic block of Markdown. A paragraph is what text will turn into when there is no reason it should become anything else.
 
