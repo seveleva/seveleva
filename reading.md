@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Литературное чтение\: особенности предмета
+title: Литературное чтение — особенности предмета
 lang: ru
 position: 100
 cover_url: http://seveleva.com/img/Girls.jpg
