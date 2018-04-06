@@ -3,7 +3,7 @@ layout: page
 title: Литературное чтение: особенности предмета
 lang: ru
 position: 100
-cover_url: http://seveleva.com/img/Plato.jpg
+cover_url: http://seveleva.com/img/Girls.jpg
 description: Презентация к докладу «Литературное чтение: особенности предмета»
 ---
 
