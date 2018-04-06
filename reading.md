@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Орфографическая грамотность в словах с непроверяемым написанием
+title: Литературное чтение: особенности предмета
 lang: ru
 position: 100
-cover_url: http://seveleva.com/img/propisi.jpg
+cover_url: http://seveleva.com/img/Girls.jpg
 description: Обобщение педагогического опыта по теме «Орфографическая грамотность в словах с непроверяемым написанием»
 ---
 
