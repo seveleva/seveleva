@@ -2,7 +2,7 @@
 layout: page
 title: Орфографическая грамотность в словах с непроверяемым написанием
 lang: ru
-position: 200
+position: 10
 cover_url: http://seveleva.com/img/propisi.jpg
 description: Обобщение педагогического опыта по теме «Орфографическая грамотность в словах с непроверяемым написанием»
 ---
