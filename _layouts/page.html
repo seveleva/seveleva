@@ -6,14 +6,17 @@ layout: default
 
 <article class="page" lang="{{ page.lang | default: site.lang | default: "ru" }}" itemscope itemtype="http://schema.org/BlogPosting">
   {% include header.html %}
-    <div class="page-content" itemprop="articleBody"> //page
+    <div class="page-content" itemprop="articleBody">
   {{ content }}
  </div>
-   <footer class="page-footer"> // page
-    <div class="page-meta"> //page
+  <font size="6pt" color="white">
+    <footer class="page-footer">
+    <div class="page-meta">
       <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>. Автор: <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">Севелева Людмила Михайловна</span></span>
     </div>
   </footer>
+ </font>
+    
 </article>
 
 
