@@ -16,4 +16,4 @@ description: Контактная информация Севелевой Л.М.
 
 
 **Электронная почта**:<br>
-[mailto:sevlm@tut.by](sevlm@tut.by)
+[sevlm@tut.by](mailto:sevlm@tut.by)
