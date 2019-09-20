@@ -14,7 +14,7 @@ published: true
 Результаты исследования были представлены на городском кон­курсе «*Урок для педагога*—2017» в феврале­-марте 2017 г. 
 Методическое обоснование опыта было издано в виде отдельной статьи в журнале «*Народная асвета*» в декабре 2017.
 
- [Чытаць на GoogleBooks](https://books.google.fr/books?id=iJ-sDwAAQBAJ&printsec=frontcover).
+ <a href="https://books.google.fr/books?id=iJ-sDwAAQBAJ&printsec=frontcover" target="_blank">Чытаць на GoogleBooks</a>
 
 # Дидактический приём «**Ритор**»
 
