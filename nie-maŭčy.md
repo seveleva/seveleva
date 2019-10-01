@@ -74,6 +74,9 @@ ISBN 979-10-97005-03-0
 
 ISBN 979-10-97005-03-0****© Афармленне, Scientia Rerum, Paris, 2019
 
+
+# <span id="anchor-72"></span>Змест
+
 # <span id="anchor-2"></span>Прадмова
 
 З развіццём навукі і тэхнікі змяняецца псіхалогія чалавека і яго спосабы
@@ -2000,50 +2003,6 @@ qualification category.
 This publication is issued from the associated external research program
 at FIAS in Paris.
 
-# <span id="anchor-72"></span>Змест
-
-Вучэбнае выданне  
-
-Севелева Людміла Міхайлаўна
-
-Не маўчы па-беларуску
-
-Два прыклады заахвочвання
-
-беларускай мовай у
-
-пачатковай школе
-
-На беларускай, рускай, англійскай мовах
-
-Адказная за выпуск *Эва Бэрнар *(Éva Bernard)
-
-Навуковы рэдактар *Максім Севелеў-Дуброўнік *(Maxime Seveleu-Dubrovnik)
-
-Камп’ютарны набор і вёрстка *Віктор Лўазо *(Victor Loiseau)
-
-Падпісана да друку 6 жніўня 2019. Фармат
-84×108<sup>1</sup>/<sub>32</sub>. Папера афсетная. Гарнітура «Філасофія
-доўгая». Наклад 1000 асобнікаў. Ум. друк. арк. 5,1. Ул.-выд. арк. 4,5.
-Заказ 2654-1.
-
-Міжнародны навукова-даследчы кансорцыум «FIAS» пад выдавецкай маркай
-«Scientia Rerum (Academic Publishers, Paris)», Л. 751235605 ад 22
-верасня 2016.
-
-Projet d’édition: 5985A-FZ0-5
-
-Langue du texte: biélorusse, russe, anglais
-
-Maison d’édition: Scientia Rerum (Academic Publishers) sise à Paris
-(75), 20 rue des Cinq-Diamants
-
-Achevé d'imprimer en août 2019 sur les presses de la Jouve S.A.S. sise à
-Cesson-Sévigné (35), 12 rue des Landelles
-
-ISBN: 979-10-97005-03-0
-
-Dépôt légal: août 2019
 
 1.  Норман Дойдж, Пластичность мозга. М.: Эксмо, 2010, ISBN:
     978-5-699-41441-3.
