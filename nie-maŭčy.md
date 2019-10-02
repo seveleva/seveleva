@@ -3,12 +3,10 @@ layout: page
 title: 'Не маўчы па-беларуску: чытаць анлайн'
 lang: be
 position: 100
-cover_url: 'https://seveleva.com/img/shkarubo.jpg'
 description: >-
   Электронная версія кнігі «Не маўчы па-беларуску» аўтарства Л.М.Севелевай.
   Кніга прапаноўвае два прыклады аразнастайвання навучальнага працэсу з
   выхаванцамі новага пакалення (т.зв. «лічбавыя дзеці»).
-published: true
 ---
 
  <a href="https://books.google.fr/books?id=iJ-sDwAAQBAJ&printsec=frontcover" target="_blank">Чытаць кнігу на GoogleBooks</a>
