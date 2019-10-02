@@ -11,9 +11,9 @@ published: true
 ---
 ## Не маўчы па-беларуску:
 ### Два прыклады заахвочвання беларускай мовай у пачатковай школе
-
-![Першая старонка вокладкі](/img/pieršaja.jpg)
 <div style="text-align:center"><a style="" href="https://books.google.fr/books?id=iJ-sDwAAQBAJ&printsec=frontcover" target="_blank">Чытаць кнігу на GoogleBooks</a></div>
+![Першая старонка вокладкі](/img/pieršaja.jpg)
+
 ![Апошняя старонка вокладкі](/img/apošniaja.jpg)
 
 Ордэна Працоўнага Чырвонага Сцяга гімназія № 50 г. Мінска
