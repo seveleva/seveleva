@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Не маўчы па-беларуску: змесціва анлайн'
+title: 'Не маўчы па-беларуску: змесціва кнігі анлайн'
 lang: be
 position: 100
 description: >-
@@ -9,13 +9,13 @@ description: >-
   выхаванцамі новага пакалення (т.зв. «лічбавыя дзеці»).
 published: true
 ---
-
- <span style="align:center;"><a href="https://books.google.fr/books?id=iJ-sDwAAQBAJ&printsec=frontcover" target="_blank">Чытаць кнігу на GoogleBooks</a></span>
-
-# Не маўчы па-беларуску: два прыклады заахвочвання беларускай мовай у пачатковай школе
+# Два прыклады заахвочвання беларускай мовай у пачатковай школе
 
 ![Першая старонка вокладкі](/img/pieršaja.jpg)
 
+<a style="" href="https://books.google.fr/books?id=iJ-sDwAAQBAJ&printsec=frontcover" target="_blank">Чытаць кнігу на GoogleBooks</a>
+
+#
 ![Апошняя старонка вокладкі](/img/apošniaja.jpg)
 
 Ордэна Працоўнага Чырвонага Сцяга гімназія № 50 г. Мінска
