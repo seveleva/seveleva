@@ -1,15 +1,18 @@
 ---
 layout: page
-title: 'Не маўчы па-беларуску: чытаць анлайн'
+title: 'Не маўчы па-беларуску: змесціва анлайн'
 lang: be
 position: 100
 description: >-
   Электронная версія кнігі «Не маўчы па-беларуску» аўтарства Л.М.Севелевай.
   Кніга прапаноўвае два прыклады аразнастайвання навучальнага працэсу з
   выхаванцамі новага пакалення (т.зв. «лічбавыя дзеці»).
+published: true
 ---
 
- <a href="https://books.google.fr/books?id=iJ-sDwAAQBAJ&printsec=frontcover" target="_blank">Чытаць кнігу на GoogleBooks</a>
+ <span style="align:center;"><a href="https://books.google.fr/books?id=iJ-sDwAAQBAJ&printsec=frontcover" target="_blank">Чытаць кнігу на GoogleBooks</a></span>
+
+# Не маўчы па-беларуску: два прыклады заахвочвання беларускай мовай у пачатковай школе
 
 ![Першая старонка вокладкі](/img/pieršaja.jpg)
 
