@@ -13,7 +13,9 @@ published: true
 
  <a href="https://books.google.fr/books?id=iJ-sDwAAQBAJ&printsec=frontcover" target="_blank">Чытаць кнігу на GoogleBooks</a>
 
-![](Pictures/1003D40600000A1300000B1BF12A09588CBDB29F.svgPictures/1000020100000049000000518F3018270E0EF2AF.png)
+![Першая старонка вокладкі](/img/pieršaja.jpg)
+
+![Апошняя старонка вокладкі](/img/apošniaja.jpg)
 
 Ордэна Працоўнага Чырвонага Сцяга гімназія № 50 г. Мінска
 
