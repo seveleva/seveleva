@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Не маўчы па-беларуску:
+title: Не маўчы па-беларуску
 lang: be
 position: 100
 cover_url: 'https://seveleva.com/img/line.jpg'
