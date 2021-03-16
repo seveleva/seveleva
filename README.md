@@ -1,2 +1,2 @@
 ## Севелева Людмила Михайлована — учитель высшей категории гимназии №50 г.Минска.
-### Сайт: [seveleva.com](https://seveleva.com).
+### Сайт: [seveleva.com](https://seveleva.com)
