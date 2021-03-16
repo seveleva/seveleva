@@ -8,7 +8,7 @@ cover_url: https://seveleva.com/img/kn1.jpg
 navtitle: Главная
 ---
 <div itemscope itemtype="https://schema.org/Person"> 
-<strong><span itemprop="name">Се́­ве­ле­ва Люд­ми­ла Ми­хай­лов­на</span></strong> — <span itemprop="jobTitle">учи­тель</span> на­чаль­ных клас­сов <span itemprop="honorificSuffix">выс­шей ка­те­го­рии</span> <span itemprop="affiliation" itemscope itemtype="https://schema.org/Organization"><span itemprop="name">гим­на­зии №50</span> г.<span itemprop="location" itemscope itemtype="https://schema.org/Place"><span itemprop="name">Минс­к</span>а</span></span>.</div>
+<strong><span itemprop="name">Се<i>́</i>­ве­ле­ва Люд­ми­ла Ми­хай­лов­на</span></strong> — <span itemprop="jobTitle">учи­тель</span> на­чаль­ных клас­сов <span itemprop="honorificSuffix">выс­шей ка­те­го­рии</span> <span itemprop="affiliation" itemscope itemtype="https://schema.org/Organization"><span itemprop="name">гим­на­зии №50</span> г.<span itemprop="location" itemscope itemtype="https://schema.org/Place"><span itemprop="name">Минс­к</span>а</span></span>.</div>
 
 
 На этом сай­те пред­став­ле­ны:
