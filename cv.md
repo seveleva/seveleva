@@ -19,5 +19,5 @@ description: Послужной список Севелевой Л.М.
 
 
 <blockquote style="color:gray;font-size:smaller;">
-Картина: Валерий Шкарубо «Осенний свет» (2002), [Нац.худ.музей]( https://www.artmuseum.by/ru/vyst/50-shedevrov-naczionalnogo-xudozhestvennogo-muzeya/v.-f.-shkarubo.-%C2%ABosennij-svet%C2%BB-(2002) )
+Картина: Валерий Шкарубо «Осенний свет» (2002), <a href="https://www.artmuseum.by/ru/koll/50-shedevrov-naczionalnogo-xudozhestvennogo-muzeya/v.-f.-shkarubo.-%C2%ABosennij-svet%C2%BB-(2002)" target="_blank">Нац.худ.музей</a>
 </blockquote>
